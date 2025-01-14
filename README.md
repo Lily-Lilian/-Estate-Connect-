@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
@@ -77,3 +78,7 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+=======
+# -Estate-Connect-
+ This repository contains the research and development files for Estate Connect, a mobile application designed to transform the real estate market in Rwanda. The project focuses on improving efficiency, transparency, and accessibility in property transactions by leveraging digital technology.
+>>>>>>> 17ff433600a4773c472399470c52351b6978462d
